@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://veronica1981.github.io/csb-e7uhq/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://veronica1981.github.io/csb-e7uhq/static/js/main.b2a16a49.chunk.js",
+    "main.js.map": "https://veronica1981.github.io/csb-e7uhq/static/js/main.b2a16a49.chunk.js.map",
+    "runtime-main.js": "https://veronica1981.github.io/csb-e7uhq/static/js/runtime-main.f915836e.js",
+    "runtime-main.js.map": "https://veronica1981.github.io/csb-e7uhq/static/js/runtime-main.f915836e.js.map",
+    "static/js/2.43012d9f.chunk.js": "https://veronica1981.github.io/csb-e7uhq/static/js/2.43012d9f.chunk.js",
+    "static/js/2.43012d9f.chunk.js.map": "https://veronica1981.github.io/csb-e7uhq/static/js/2.43012d9f.chunk.js.map",
+    "index.html": "https://veronica1981.github.io/csb-e7uhq/index.html",
+    "precache-manifest.35f657a65f66ae35d5ace0a7a8234fb2.js": "https://veronica1981.github.io/csb-e7uhq/precache-manifest.35f657a65f66ae35d5ace0a7a8234fb2.js",
+    "service-worker.js": "https://veronica1981.github.io/csb-e7uhq/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://veronica1981.github.io/csb-e7uhq/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.43012d9f.chunk.js.LICENSE.txt": "https://veronica1981.github.io/csb-e7uhq/static/js/2.43012d9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f915836e.js",
+    "static/js/2.43012d9f.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.b2a16a49.chunk.js"
+  ]
+}
